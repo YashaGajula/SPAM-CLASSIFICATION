@@ -22,6 +22,8 @@ Contextual Understanding: BERT captures deep contextual relationships between wo
 Pretrained Knowledge: BERT is pretrained on a large corpus, which helps in achieving high performance even with limited labeled data.
 Versatility: Can be fine-tuned for various NLP tasks with minimal adjustments.
 ![image](https://github.com/YashaGajula/SPAM-CLASSIFICATION/assets/170789442/0b9ccfbc-7f2c-4757-a6ba-9f2859d9109b)
+
+
 ML (Naive Bayes): Achieved an accuracy of approximately 98.25%.
 DL (CNN): Achieved an accuracy of approximately 98.10%.
 LLM (BERT): Achieved the highest accuracy, approximately 99.00%.
